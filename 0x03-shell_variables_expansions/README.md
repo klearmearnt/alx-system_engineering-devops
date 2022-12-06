@@ -1,1 +1,1 @@
-3-paths
+script that lists environment variables
